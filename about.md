@@ -7,20 +7,20 @@ title: "关于"
 
 
 ## 1.说明
-- 本博客基于Jekyll工具构建，模板代码公开。[(源码)](https://github.com/panxw/panxw.github.com)  
+- 本博客基于Jekyll工具构建，模板代码公开。[(源码)](https://github.com/dongfeng/dongfeng.github.com)  
 - 模板代码可任意使用，但请保留本站**友情链接**。  
-- 本站名称：Panxw's Blog  
+- 本站名称：dongfeng's Blog  
 - 本站网址：http://dongfeng.me  
 
 
 ## 2.个人信息
-- Panxw，80后，男，武汉，2011年起从事Android开发至今。
+- dongfeng，80后，男，武汉，2011年起从事Android开发至今。
 - 另熟悉IOS/React Native/Node.js等开发技术。  
 - 欢迎技术交流。  
 
 
 ## 3.联系方式
-- Github: panxw  
+- Github: dongfeng  
 - Email: winfirm(at)163.com, qq: 85902258  
 - QQ交流群: 168563980  
 
