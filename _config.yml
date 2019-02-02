@@ -12,10 +12,10 @@ url: http://dongfeng.me
 domain: dongfeng.me
 
 all_categories: [
-  ["php", "php编程","/php/index.html"], 
-  ["web", "Web建站","/web/index.html"], 
-  ["linux", "Linux相关","/linux/index.html"],
-  ["database", "数据库相关","/database/index.html"],
+  #["php", "php编程","/php/index.html"], 
+  #["web", "Web建站","/web/index.html"], 
+  #["linux", "Linux相关","/linux/index.html"],
+  #["database", "数据库相关","/database/index.html"],
   ["about", "关于","/about.html"]
 ]
 
