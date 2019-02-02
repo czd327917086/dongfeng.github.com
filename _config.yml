@@ -3,13 +3,13 @@ highlighter: rouge
 permalink: /:categories/:title.html 
 excerpt_separator: "<!-- more -->"
 
-github: panxw
-author: "panxw"
-email: winfirm#163.com
-name: "Panxw's Blog"
+github: czd327917086
+author: "dongfeng"
+email: zhendong.cai#qq.com
+name: "Dongfeng's Blog"
 baseurl: /
-url: http://www.panxw.com
-domain: www.panxw.com
+url: http://dongfeng.me
+domain: dongfeng.me
 
 all_categories: [
   ["android", "Android开发","/android/index.html"], 

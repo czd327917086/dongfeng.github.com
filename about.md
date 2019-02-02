@@ -10,7 +10,7 @@ title: "关于"
 - 本博客基于Jekyll工具构建，模板代码公开。[(源码)](https://github.com/panxw/panxw.github.com)  
 - 模板代码可任意使用，但请保留本站**友情链接**。  
 - 本站名称：Panxw's Blog  
-- 本站网址：https://www.panxw.com  
+- 本站网址：http://dongfeng.me  
 
 
 ## 2.个人信息
